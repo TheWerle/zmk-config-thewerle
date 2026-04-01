@@ -20,6 +20,4 @@
 ---
 include:
   - board: nrfmicro_11_flipped
-    shield: sofle_left
-  - board: nrfmicro_11_flipped
-    shield: sofle_right
+    shield: sofle_left, sofle_right
